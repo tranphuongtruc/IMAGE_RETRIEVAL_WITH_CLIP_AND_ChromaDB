@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "tranphuongtruc",
+        "projectKey": "tranphuongtruc_IMAGE_RETRIEVAL_WITH_CLIP_AND_ChromaDB"
+    }
+}
